@@ -1,0 +1,140 @@
+walk dog
+pet cat
+eat the dog
+play with dog
+sleep with dog :0
+eat the dog again
+something
+True
+False
+False
+True
+False
+True
+False
+walk dog
+walk dog
+walk dog
+walk dog
+walk dog
+walk dog
+walk dog
+False
+True
+True
+False
+False
+False
+False
+
+
+
+
+
+
+a
+False
+False
+False
+True
+True
+False
+True
+
+
+
+
+
+walk dog
+a
+False
+False
+True
+True
+False
+False
+False
+
+
+
+
+walk dog
+
+a
+True
+False
+True
+False
+True
+False
+False
+
+
+
+walk dog
+
+
+walk dog
+False
+False
+False
+True
+False
+False
+False
+
+
+walk dog
+
+
+
+walk dog
+False
+False
+False
+False
+False
+True
+False
+
+
+walk dog
+
+
+
+walk dog
+False
+False
+False
+False
+True
+True
+False
+
+walk dog
+
+
+
+
+walk dog
+False
+False
+False
+True
+True
+False
+False
+walk dog
+
+
+
+
+
+walk dog
+False
+False
+True
+False
+True
+False
+False

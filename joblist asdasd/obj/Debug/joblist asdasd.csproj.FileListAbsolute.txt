@@ -1,0 +1,11 @@
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\bin\Debug\joblist asdasd.exe.config
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\bin\Debug\joblist asdasd.exe
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\bin\Debug\joblist asdasd.pdb
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist asdasd.csproj.AssemblyReference.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist asdasd.csproj.SuggestedBindingRedirects.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist_asdasd.Form1.resources
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist_asdasd.Properties.Resources.resources
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist asdasd.csproj.GenerateResource.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist asdasd.csproj.CoreCompileInputs.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist asdasd.exe
+C:\Users\harke\OneDrive - wqeic.ac.uk\joblist asdasd\obj\Debug\joblist asdasd.pdb
